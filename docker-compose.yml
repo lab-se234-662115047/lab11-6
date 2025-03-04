@@ -1,0 +1,5 @@
+services:
+  web:
+    image: watcharapongwanna/lab10v4:latest
+    ports:
+      - "8107:80"
